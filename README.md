@@ -35,6 +35,6 @@ App registrations
 
 ![Alt text](uploads/gitRepo-5.png?raw=true "App registrations")
 
-## Contributor
+## Contributor(s)
 
 Divyanshu Tiwari
